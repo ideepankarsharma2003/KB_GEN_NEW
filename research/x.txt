@@ -1,5 +1,10 @@
 CALL apoc.import.json("https://raw.githubusercontent.com/ideepankarsharma2003/KnowledgeGraphs/main/json_files/svo_new_cat_ear_headphones_deduped.json") 
 CALL apoc.import.json("https://raw.githubusercontent.com/ideepankarsharma2003/KnowledgeGraphs/main/json_files/svo.json") 
+CALL apoc.import.json("https://raw.githubusercontent.com/ideepankarsharma2003/KB_GEN_NEW/main/dummy_outputs/new_svo_relationships_finals.json") 
+
+
+
+
 
 MATCH (n) DETACH DELETE n
 
@@ -7,7 +12,19 @@ MATCH (n) RETURN n
 
 
 MATCH (n) DETACH DELETE n;
+
+
+
 CALL apoc.import.json("https://raw.githubusercontent.com/ideepankarsharma2003/KnowledgeGraphs/main/json_files/svo_new_cat_ear_headphones_deduped.json") ;
+MATCH (n:Node) 
+CALL apoc.create.addLabels(n, n.node_labels) 
+YIELD node 
+RETURN node
+
+
+
+
+CALL apoc.import.json("https://raw.githubusercontent.com/ideepankarsharma2003/KB_GEN_NEW/main/dummy_outputs/new_svo_relationships_finals.json") ;
 MATCH (n:Node) 
 CALL apoc.create.addLabels(n, n.node_labels) 
 YIELD node 
