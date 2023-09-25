@@ -1,0 +1,9364 @@
+[
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "different from",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "instance of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catgirl",
+        "verb": "subclass of",
+        "object": "Anthropomorphism",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catwoman",
+        "verb": "publisher",
+        "object": "DC Comics",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cheetah",
+        "verb": "publisher",
+        "object": "DC Comics",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "China",
+        "verb": "diplomatic relation",
+        "object": "United States",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "United States",
+        "verb": "diplomatic relation",
+        "object": "China",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War I",
+        "verb": "followed by",
+        "object": "World War II",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "follows",
+        "object": "World War I",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "location",
+        "object": "Beijing",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Otaku",
+        "verb": "subclass of",
+        "object": "Gamer",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Design",
+        "verb": "facet of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "LED lamp",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "LED lamp",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "use",
+        "object": "Light",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Second screen",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Button",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Second screen",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Wire",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "different from",
+        "object": "Electric battery",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "uses",
+        "object": "Radio frequency",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Audio headset",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "PlayStation 4",
+        "verb": "subclass of",
+        "object": "Video game console",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "PlayStation 4",
+        "verb": "instance of",
+        "object": "Video game console",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Xbox One",
+        "verb": "part of the series",
+        "object": "Xbox",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Xbox",
+        "verb": "has part",
+        "object": "Xbox One",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Design",
+        "verb": "different from",
+        "object": "Sound quality",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "different from",
+        "object": "Design",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Surround sound",
+        "verb": "subclass of",
+        "object": "Sound quality",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Surround sound",
+        "verb": "instance of",
+        "object": "Sound quality",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Surround sound",
+        "verb": "use",
+        "object": "Surround sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Surround sound",
+        "verb": "opposite of",
+        "object": "Stereophonic sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Subwoofer",
+        "verb": "part of",
+        "object": "Surround sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Ear",
+        "verb": "use",
+        "object": "Protection",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Noise-cancelling headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Active noise control",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Noise-cancelling headphones",
+        "verb": "use",
+        "object": "Active noise control",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Noise-cancelling headphones",
+        "verb": "uses",
+        "object": "Active noise control",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Online and offline",
+        "verb": "part of",
+        "object": "Internet",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Internet",
+        "verb": "subclass of",
+        "object": "Communication",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "connects with",
+        "object": "Neck",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Neck",
+        "verb": "connects with",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Listener fatigue",
+        "verb": "subclass of",
+        "object": "Pain",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catheter",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Nitin Sawhney",
+        "verb": "uses",
+        "object": "LED lamp",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "different from",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Noise reduction",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Electric battery",
+        "verb": "has part",
+        "object": "LED lamp",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Phone connector (audio)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "use",
+        "object": "Strobe light",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Silicone",
+        "verb": "opposite of",
+        "object": "Metal",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Silicone",
+        "verb": "different from",
+        "object": "Metal",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Metal",
+        "verb": "different from",
+        "object": "Silicone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "AptX",
+        "verb": "part of",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "instance of",
+        "object": "Codec",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "AptX",
+        "verb": "instance of",
+        "object": "Codec",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Phone connector (audio)",
+        "verb": "connects with",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "IP code",
+        "verb": "facet of",
+        "object": "Water",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Microphone",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Microphone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Microphone",
+        "verb": "use",
+        "object": "Active noise control",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Microphone",
+        "verb": "different from",
+        "object": "Active noise control",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "different from",
+        "object": "Microphone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Color",
+        "verb": "facet of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "point in time",
+        "object": "4",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Decibel",
+        "verb": "subclass of",
+        "object": "Volume",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Otaku",
+        "verb": "subclass of",
+        "object": "Gamer",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Otaku",
+        "verb": "field of this occupation",
+        "object": "Gamer",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Gamer",
+        "verb": "practiced by",
+        "object": "Otaku",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "facet of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2012 Summer Olympics",
+        "verb": "point in time",
+        "object": "2012",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2010",
+        "verb": "point in time",
+        "object": "2010",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2010 Winter Olympics",
+        "verb": "point in time",
+        "object": "2010",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Ariana Grande",
+        "verb": "manufacturer",
+        "object": "Brookstone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Ariana Grande",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard University",
+        "verb": "subsidiary",
+        "object": "Harvard Kennedy School",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Name",
+        "verb": "part of",
+        "object": "Name",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Name",
+        "verb": "has part",
+        "object": "Name",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "uses",
+        "object": "Address",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "part of",
+        "object": "Facebook",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "has part",
+        "object": "Address",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War I",
+        "verb": "followed by",
+        "object": "World War II",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "follows",
+        "object": "World War I",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Kawaii",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War I",
+        "verb": "followed by",
+        "object": "World War II",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "follows",
+        "object": "World War I",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "THX",
+        "verb": "product or material produced",
+        "object": "Surround sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "THX",
+        "verb": "use",
+        "object": "Surround sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Noise",
+        "verb": "subclass of",
+        "object": "Sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Noise reduction",
+        "verb": "subclass of",
+        "object": "Sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Audio headset",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Earmuffs",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Earmuffs",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "USB",
+        "verb": "has part",
+        "object": "Phone connector (audio)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "USB",
+        "verb": "uses",
+        "object": "Phone connector (audio)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Eardrum",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Ear",
+        "verb": "connects with",
+        "object": "Eardrum",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Eardrum",
+        "verb": "connects with",
+        "object": "Ear",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "part of",
+        "object": "Eardrum",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "New York City",
+        "verb": "contains administrative territorial entity",
+        "object": "Manhattan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Manhattan",
+        "verb": "located in the administrative territorial entity",
+        "object": "New York City",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Name",
+        "verb": "part of",
+        "object": "Name",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Name",
+        "verb": "has part",
+        "object": "Name",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "uses",
+        "object": "Address",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "part of",
+        "object": "Facebook",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "has part",
+        "object": "Address",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "part of",
+        "object": "Website",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War I",
+        "verb": "followed by",
+        "object": "World War II",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "follows",
+        "object": "World War I",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2004 Summer Olympics",
+        "verb": "point in time",
+        "object": "2004",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2004",
+        "verb": "point in time",
+        "object": "2004",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cosplay",
+        "verb": "subclass of",
+        "object": "Gamer",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Microphone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "uses",
+        "object": "Microphone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Microphone",
+        "verb": "use",
+        "object": "Active noise control",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "instance of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Phone connector (audio)",
+        "verb": "connects with",
+        "object": "Phone connector (audio)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Surround sound",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Microphone",
+        "verb": "different from",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "subclass of",
+        "object": "Lighting",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "instance of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Purple",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Mouth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "part of",
+        "object": "5.0",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "inception",
+        "object": "5.0",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Cat anatomy",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Xbox One",
+        "verb": "follows",
+        "object": "PlayStation 4",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "IPhone",
+        "verb": "platform",
+        "object": "Nintendo Switch",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Nintendo Switch",
+        "verb": "follows",
+        "object": "PlayStation 4",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Black",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Pink",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Purple",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "part of",
+        "object": "5.0",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "part of",
+        "object": "5.0",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cosplay",
+        "verb": "part of",
+        "object": "Subculture",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cosplay",
+        "verb": "instance of",
+        "object": "Subculture",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Anime",
+        "verb": "country",
+        "object": "Japan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Manga",
+        "verb": "country",
+        "object": "Japan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catgirl",
+        "verb": "country of origin",
+        "object": "Japan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Cat anatomy",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "instance of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "subclass of",
+        "object": "Lighting",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Pink",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Blue",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Xbox controller",
+        "verb": "part of",
+        "object": "Xbox",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ],
+                [
+                    27,
+                    155
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Xbox",
+        "verb": "has part",
+        "object": "Xbox controller",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ],
+                [
+                    27,
+                    155
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Xbox controller",
+        "verb": "part of",
+        "object": "Xbox (console)",
+        "meta": {
+            "spans": [
+                [
+                    27,
+                    155
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Hot-melt adhesive",
+        "verb": "uses",
+        "object": "Adhesive",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ],
+                [
+                    9,
+                    137
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Hot-melt adhesive",
+        "verb": "instance of",
+        "object": "Adhesive",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Hot-melt adhesive",
+        "verb": "use",
+        "object": "Adhesive",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Hot-melt adhesive",
+        "verb": "subclass of",
+        "object": "Adhesive",
+        "meta": {
+            "spans": [
+                [
+                    9,
+                    137
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Name",
+        "verb": "part of",
+        "object": "Name",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Name",
+        "verb": "has part",
+        "object": "Name",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "uses",
+        "object": "Address",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "part of",
+        "object": "Facebook",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "has part",
+        "object": "Address",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "part of",
+        "object": "Website",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War I",
+        "verb": "followed by",
+        "object": "World War II",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "follows",
+        "object": "World War I",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Gadget",
+        "verb": "part of",
+        "object": "Home",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Gadget",
+        "verb": "subclass of",
+        "object": "Home",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Gadget",
+        "verb": "location",
+        "object": "Home",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Table of contents",
+        "verb": "part of",
+        "object": "Table of contents",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Table of contents",
+        "verb": "is a list of",
+        "object": "Table of contents",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Table of contents",
+        "verb": "part of the series",
+        "object": "Table of contents",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Anime",
+        "verb": "country",
+        "object": "Japan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Manga",
+        "verb": "country",
+        "object": "Japan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catgirl",
+        "verb": "facet of",
+        "object": "Anime",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catgirl",
+        "verb": "instance of",
+        "object": "Manga",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Woman",
+        "verb": "instance of",
+        "object": "Gender",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Girl",
+        "verb": "instance of",
+        "object": "Gender",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Woman",
+        "verb": "opposite of",
+        "object": "Girl",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "subclass of",
+        "object": "Light-emitting diode",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "uses",
+        "object": "Light-emitting diode",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "uses",
+        "object": "Light-emitting diode",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Edifier",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Edifier",
+        "verb": "operating system",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "instance of",
+        "object": "Electric battery",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Comfort",
+        "verb": "facet of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Audio and video interfaces and connectors",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "uses",
+        "object": "Light-emitting diode",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Red",
+        "verb": "instance of",
+        "object": "Pastel (color)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Blue",
+        "verb": "instance of",
+        "object": "Pastel (color)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Green",
+        "verb": "instance of",
+        "object": "Pastel (color)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Earmuffs",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Microphone",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Daughter",
+        "verb": "subclass of",
+        "object": "Girl",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Daughter",
+        "verb": "subclass of",
+        "object": "Woman",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Girl",
+        "verb": "opposite of",
+        "object": "Woman",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "AptX",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "AptX",
+        "verb": "based on",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Samsung Galaxy S6",
+        "verb": "manufacturer",
+        "object": "Samsung Electronics",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Samsung Galaxy S7",
+        "verb": "manufacturer",
+        "object": "Samsung Electronics",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Samsung Galaxy S7",
+        "verb": "followed by",
+        "object": "Samsung Galaxy S8",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "COVID-19 pandemic",
+        "verb": "point in time",
+        "object": "2020",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "verb": "point in time",
+        "object": "2008",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Noise",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "facet of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "use",
+        "object": "Sound quality",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Fashion accessory",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Manga",
+        "verb": "influenced by",
+        "object": "Anime",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War I",
+        "verb": "followed by",
+        "object": "World War II",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "follows",
+        "object": "World War I",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "country",
+        "object": "United States",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "John F. Kennedy",
+        "verb": "position held",
+        "object": "United States Secretary of Defense",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Table of contents",
+        "verb": "part of",
+        "object": "Table of contents",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Table of contents",
+        "verb": "is a list of",
+        "object": "Table of contents",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Table of contents",
+        "verb": "part of the series",
+        "object": "Table of contents",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catwoman",
+        "verb": "inception",
+        "object": "1940",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ],
+                [
+                    50,
+                    178
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catwoman",
+        "verb": "publisher",
+        "object": "DC Comics",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ],
+                [
+                    50,
+                    178
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catwoman",
+        "verb": "start time",
+        "object": "1940",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ],
+                [
+                    50,
+                    178
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Indiegogo",
+        "verb": "instance of",
+        "object": "Crowdfunding",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catgirl",
+        "verb": "manufacturer",
+        "object": "Brookstone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Ariana Grande",
+        "verb": "owner of",
+        "object": "Brookstone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Ariana Grande",
+        "verb": "record label",
+        "object": "Brookstone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "instance of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bowers & Wilkins",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sennheiser",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Ear",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Ear",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catgirl",
+        "verb": "instance of",
+        "object": "Manga",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catgirl",
+        "verb": "instance of",
+        "object": "Anime",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "MD Helicopters MH-6 Little Bird",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "MD Helicopters MH-6 Little Bird",
+        "verb": "instance of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "MD Helicopters MH-6 Little Bird",
+        "verb": "has part",
+        "object": "Cat anatomy",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "MD Helicopters MH-6 Little Bird",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Distortion",
+        "verb": "subclass of",
+        "object": "Sound quality",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Distortion",
+        "verb": "facet of",
+        "object": "Sound quality",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Distortion",
+        "verb": "part of",
+        "object": "Sound quality",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "part of",
+        "object": "5.0",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "has part",
+        "object": "5.0",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "point in time",
+        "object": "5",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Rechargeable battery",
+        "verb": "use",
+        "object": "Playtime",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "L'Orfeo",
+        "verb": "composer",
+        "object": "Luciano Pavarotti",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "L'Orfeo",
+        "verb": "composer",
+        "object": "Lucio Fulci",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "L'Orfeo",
+        "verb": "composer",
+        "object": "Luciano Berio",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "has part",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "facet of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Hinge",
+        "verb": "part of",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "has part",
+        "object": "Hinge",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Construction",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Surround sound",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "part of",
+        "object": "Aesthetics",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "facet of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "has part",
+        "object": "Aesthetics",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Memory foam",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Memory foam",
+        "verb": "use",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Memory foam",
+        "verb": "subclass of",
+        "object": "Comfort",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "used by",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Comfort",
+        "verb": "facet of",
+        "object": "Comfort",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Comfort",
+        "verb": "has part",
+        "object": "Package cushioning",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Package cushioning",
+        "verb": "subclass of",
+        "object": "Comfort",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "subclass of",
+        "object": "Lighting",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "use",
+        "object": "Lighting",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Blue",
+        "verb": "instance of",
+        "object": "Color",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Audio and video interfaces and connectors",
+        "verb": "connects with",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Audio and video interfaces and connectors",
+        "verb": "used by",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "subclass of",
+        "object": "Sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "facet of",
+        "object": "Sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "subclass of",
+        "object": "LED lamp",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "subclass of",
+        "object": "Light-emitting diode",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "USB-C",
+        "verb": "different from",
+        "object": "USB hardware",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "USB hardware",
+        "verb": "different from",
+        "object": "USB-C",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "USB-C",
+        "verb": "opposite of",
+        "object": "USB hardware",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "different from",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Virtual surround",
+        "verb": "part of",
+        "object": "7.1 surround sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Electric battery",
+        "verb": "facet of",
+        "object": "Battery charger",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "subclass of",
+        "object": "LED lamp",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "subclass of",
+        "object": "Light-emitting diode",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "subclass of",
+        "object": "Light-emitting diode",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "subclass of",
+        "object": "LED lamp",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cup",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Audio and video interfaces and connectors",
+        "verb": "has part",
+        "object": "Silicone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Silicone",
+        "verb": "use",
+        "object": "Audio and video interfaces and connectors",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "has part",
+        "object": "Rechargeable battery",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "facet of",
+        "object": "Price",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound quality",
+        "verb": "has part",
+        "object": "Price",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Rechargeable battery",
+        "verb": "subclass of",
+        "object": "Rechargeable battery",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Luxury goods",
+        "verb": "opposite of",
+        "object": "Mid-range",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "subclass of",
+        "object": "Light",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Audio and video interfaces and connectors",
+        "verb": "connects with",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "connects with",
+        "object": "Audio and video interfaces and connectors",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "different from",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "different from",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Audio headset",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Audio and video interfaces and connectors",
+        "verb": "connects with",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Cup",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cup",
+        "verb": "part of",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Surround sound",
+        "verb": "opposite of",
+        "object": "Stereophonic sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Stereophonic sound",
+        "verb": "opposite of",
+        "object": "Surround sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "use",
+        "object": "Lighting",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "subclass of",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Windows 10",
+        "verb": "follows",
+        "object": "Windows 7",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Windows 7",
+        "verb": "followed by",
+        "object": "Windows 10",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cup",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Headband",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "part of",
+        "object": "Head",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Head",
+        "verb": "has part",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "New York City",
+        "verb": "contains administrative territorial entity",
+        "object": "Manhattan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Manhattan",
+        "verb": "located in the administrative territorial entity",
+        "object": "New York City",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Electric battery",
+        "verb": "different from",
+        "object": "Playtime",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "uses",
+        "object": "USB",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Hello",
+        "verb": "performer",
+        "object": "James Longman",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "James Longman",
+        "verb": "occupation",
+        "object": "Hello",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Boombox",
+        "verb": "subclass of",
+        "object": "Cassette deck",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Boombox",
+        "verb": "subclass of",
+        "object": "Radio",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ],
+                [
+                    19,
+                    147
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    19,
+                    147
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Skullcandy",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    19,
+                    147
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2012 Summer Olympics",
+        "verb": "point in time",
+        "object": "2012",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "The Emperor's New Clothes",
+        "verb": "performer",
+        "object": "David Bowie",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "The Emperor's New Clothes",
+        "verb": "author",
+        "object": "Ralph Waldo Emerson",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "The Emperor's New Clothes",
+        "verb": "creator",
+        "object": "Michael Caine",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Brookstone",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Ariana Grande",
+        "verb": "instance of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Ariana Grande",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Ariana Grande",
+        "verb": "product or material produced",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Site map",
+        "verb": "part of",
+        "object": "Site map",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Site map",
+        "verb": "use",
+        "object": "Site map",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War I",
+        "verb": "followed by",
+        "object": "World War II",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "follows",
+        "object": "World War I",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catheter",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "uses",
+        "object": "USB",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "based on",
+        "object": "USB",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "USB",
+        "verb": "used by",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard University",
+        "verb": "subsidiary",
+        "object": "Harvard Kennedy School",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catgirl",
+        "verb": "country of origin",
+        "object": "Japan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Catgirl",
+        "verb": "country",
+        "object": "Japan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "instance of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headband",
+        "verb": "connects with",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "use",
+        "object": "Lighting",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "subclass of",
+        "object": "Lighting",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Surround sound",
+        "verb": "subclass of",
+        "object": "Sound quality",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "uses",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "instance of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "instance of",
+        "object": "Chipset",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Chipset",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RGB color model",
+        "verb": "subclass of",
+        "object": "Montia fontana",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Sound recording and reproduction",
+        "verb": "uses",
+        "object": "Microphone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Microphone",
+        "verb": "use",
+        "object": "Sound recording and reproduction",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Light-emitting diode",
+        "verb": "use",
+        "object": "Casual game",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "different from",
+        "object": "USB",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "USB",
+        "verb": "different from",
+        "object": "Bluetooth",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "subclass of",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Bluetooth",
+        "verb": "use",
+        "object": "Wireless",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "A",
+        "verb": "subclass of",
+        "object": "Button",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "A",
+        "verb": "instance of",
+        "object": "Button",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "instance of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Gigi Hadid",
+        "verb": "influenced by",
+        "object": "Ariana Grande",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Help desk",
+        "verb": "industry",
+        "object": "Information technology",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Best Buy",
+        "verb": "owned by",
+        "object": "Best Buy",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Best Buy",
+        "verb": "owner of",
+        "object": "Best Buy",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "use",
+        "object": "Sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Sound",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Dolby",
+        "verb": "owned by",
+        "object": "Dolby",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Headphones",
+        "verb": "has part",
+        "object": "Microphone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Noise reduction",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Microphone",
+        "verb": "part of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Wireless",
+        "verb": "uses",
+        "object": "Phone connector (audio)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Active noise control",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Active noise control",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "PlayStation 4",
+        "verb": "followed by",
+        "object": "PlayStation 5",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "PlayStation 5",
+        "verb": "follows",
+        "object": "PlayStation 4",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Surround sound",
+        "verb": "subclass of",
+        "object": "Sound effect",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Xbox Series X and Series S",
+        "verb": "follows",
+        "object": "Xbox One",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Xbox One",
+        "verb": "followed by",
+        "object": "Xbox Series X and Series S",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "subclass of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Cat anatomy",
+        "verb": "instance of",
+        "object": "Headphones",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Human factors and ergonomics",
+        "verb": "has effect",
+        "object": "Comfort",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Human factors and ergonomics",
+        "verb": "has part",
+        "object": "Comfort",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Microphone",
+        "verb": "use",
+        "object": "Noise reduction",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Noise reduction",
+        "verb": "subclass of",
+        "object": "Microphone",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "PlayStation 4",
+        "verb": "followed by",
+        "object": "PlayStation 5",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "PlayStation 5",
+        "verb": "follows",
+        "object": "PlayStation 4",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "New York City",
+        "verb": "twinned administrative body",
+        "object": "Manhattan",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Manhattan",
+        "verb": "twinned administrative body",
+        "object": "New York City",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "New York City",
+        "verb": "twinned administrative body",
+        "object": "London",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "London",
+        "verb": "twinned administrative body",
+        "object": "New York City",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Website",
+        "verb": "main subject",
+        "object": "Technology",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Google Chrome",
+        "verb": "operating system",
+        "object": "Android (operating system)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "The Daily Telegraph",
+        "verb": "instance of",
+        "object": "Newspaper",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "The Daily Show",
+        "verb": "original broadcaster",
+        "object": "BBC",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Name",
+        "verb": "part of",
+        "object": "Name",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Name",
+        "verb": "has part",
+        "object": "Name",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "uses",
+        "object": "Address",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "part of",
+        "object": "Facebook",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Email",
+        "verb": "has part",
+        "object": "Address",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Website",
+        "verb": "part of",
+        "object": "Website",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Website",
+        "verb": "part of",
+        "object": "Database",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Website",
+        "verb": "part of",
+        "object": "Internet",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War I",
+        "verb": "followed by",
+        "object": "World War II",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "follows",
+        "object": "World War I",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World Heritage Site",
+        "verb": "maintained by",
+        "object": "UNESCO",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "World War II",
+        "verb": "has effect",
+        "object": "The Holocaust",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Harvard Kennedy School",
+        "verb": "part of",
+        "object": "Harvard University",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2004 Summer Olympics",
+        "verb": "point in time",
+        "object": "2004",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "2004",
+        "verb": "point in time",
+        "object": "2004",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "RSS",
+        "verb": "use",
+        "object": "Subscription business model",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Website",
+        "verb": "main subject",
+        "object": "Technology",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "Google Chrome",
+        "verb": "operating system",
+        "object": "Android (operating system)",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "The Daily Telegraph",
+        "verb": "instance of",
+        "object": "Newspaper",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    },
+    {
+        "subject": "The Daily Show",
+        "verb": "original broadcaster",
+        "object": "BBC",
+        "meta": {
+            "spans": [
+                [
+                    0,
+                    128
+                ]
+            ]
+        }
+    }
+]
